@@ -1,0 +1,20 @@
+body {
+    --bs-light-rgb: 48,73,95;
+    background: url("wod-buzzs-background.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.navbar {
+    --bs-navbar-color: white;
+    --bs-navbar-brand-color: white;
+    --bs-nav-link-color: white;
+}
+
+#topMenu {
+    color: white;
+}
+
+footer {
+    background-color: white;
+    font-family: 'Noto Serif';
+}
